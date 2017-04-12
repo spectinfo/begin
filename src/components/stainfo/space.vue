@@ -90,7 +90,7 @@
                         {
                             name: '恶意域名',
                             type: 'map',
-                            layoutCenter: ['50%', '50%'],
+                            layoutCenter: ['50%', '50%']
                             layoutSize: 900,
                             mapType: 'china',
                             roam: false,
